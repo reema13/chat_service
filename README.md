@@ -1,1 +1,1 @@
-# chat_service
+# chat_service android test project
